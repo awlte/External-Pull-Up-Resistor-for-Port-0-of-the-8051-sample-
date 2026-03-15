@@ -1,0 +1,2 @@
+# External-Pull-Up-Resistor-for-Port-0-of-the-8051-sample-
+This report analyzes the internal structure of Port~0 (P0) of the 8051 microcontroller and derives a single external pull-up resistor value for P0 used as a general-purpose I/O port. The derivation is based directly on the DC characteristics in the Intel 8051 data sheet and on clearly stated assumptions appropriate for a low-speed assignment.
